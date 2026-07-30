@@ -1,0 +1,7 @@
+theme = noctalia
+font-size = 11
+# font-family = "ProggyCleanNerdFont"
+# font-family = "CaskaydiaCoveNerdFontMono-Light"
+# font-family = "DroidSansMNerdFontMono-Regular"
+# font-family = "ZedMonoNerdFont"
+font-family = "JetBrainsMonoNerdFontMono"

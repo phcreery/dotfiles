@@ -1,0 +1,606 @@
+{
+  "entries": [
+    {
+      "byte_size": 40,
+      "captured_at_ms": 1784510913190,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510913190-33",
+      "mime_types": [
+        "text/uri-list",
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510913190-33.bin",
+      "pinned": false,
+      "text_preview": "/var/home/phcreery/.local/state/noctalia"
+    },
+    {
+      "byte_size": 16,
+      "captured_at_ms": 1784510854174,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510854174-32",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510854174-32.bin",
+      "pinned": false,
+      "text_preview": "$XDG_CONFIG_HOME"
+    },
+    {
+      "byte_size": 21,
+      "captured_at_ms": 1784510848634,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510848634-31",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510848634-31.bin",
+      "pinned": false,
+      "text_preview": "$NOCTALIA_CONFIG_HOME"
+    },
+    {
+      "byte_size": 74,
+      "captured_at_ms": 1784510769587,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510769587-30",
+      "mime_types": [
+        "text/uri-list",
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510769587-30.bin",
+      "pinned": false,
+      "text_preview": "/var/home/phcreery/dotfiles/noctalia/.config/noctalia/noctalia-config.toml"
+    },
+    {
+      "byte_size": 56,
+      "captured_at_ms": 1784510746998,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510746998-29",
+      "mime_types": [
+        "text/uri-list",
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510746998-29.bin",
+      "pinned": false,
+      "text_preview": "/var/home/phcreery/.config/noctalia/noctalia-config.toml"
+    },
+    {
+      "byte_size": 39,
+      "captured_at_ms": 1784510743286,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510743286-28",
+      "mime_types": [
+        "text/uri-list",
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510743286-28.bin",
+      "pinned": false,
+      "text_preview": "/var/home/phcreery/noctalia-config.toml"
+    },
+    {
+      "byte_size": 35,
+      "captured_at_ms": 1784510603785,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510603785-26",
+      "mime_types": [
+        "text/uri-list",
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510603785-26.bin",
+      "pinned": false,
+      "text_preview": "/var/home/phcreery/.config/noctalia"
+    },
+    {
+      "byte_size": 31,
+      "captured_at_ms": 1784510585897,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510585897-25",
+      "mime_types": [
+        "text/uri-list",
+        "x-special/gnome-copied-files",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510585897-25.bin",
+      "pinned": false,
+      "text_preview": "/var/home/phcreery/.config/niri"
+    },
+    {
+      "byte_size": 36,
+      "captured_at_ms": 1784510519936,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784510519936-24",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784510519936-24.bin",
+      "pinned": false,
+      "text_preview": "https://github.com/phcreery/dotfiles"
+    },
+    {
+      "byte_size": 84,
+      "captured_at_ms": 1784509652692,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784509652692-23",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784509652692-23.bin",
+      "pinned": false,
+      "text_preview": "curl -sSL https://raw.githubusercontent.com/srinivasr/nirimod/main/install.sh | bash"
+    },
+    {
+      "byte_size": 114,
+      "captured_at_ms": 1784509630393,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784509630393-22",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784509630393-22.bin",
+      "pinned": false,
+      "text_preview": "can i put `curl -sSL https://raw.githubusercontent.com/srinivasr/nirimod/main/install.sh | bash` in a bash script?"
+    },
+    {
+      "byte_size": 84,
+      "captured_at_ms": 1784509600010,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784509600010-19",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784509600010-19.bin",
+      "pinned": false,
+      "text_preview": "curl -sSL https://raw.githubusercontent.com/srinivasr/nirimod/main/install.sh | bash"
+    },
+    {
+      "byte_size": 34,
+      "captured_at_ms": 1784509482061,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784509482061-18",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784509482061-18.bin",
+      "pinned": false,
+      "text_preview": "octalia msg pannel-toggle launcher"
+    },
+    {
+      "byte_size": 103,
+      "captured_at_ms": 1784509345675,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784509345675-17",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784509345675-17.bin",
+      "pinned": false,
+      "text_preview": "Mod+E                               hotkey-overlay-title=\"File Manager: Nautilus\" { spawn \"nautilus\"; }"
+    },
+    {
+      "byte_size": 110,
+      "captured_at_ms": 1784509206424,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784509206424-16",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784509206424-16.bin",
+      "pinned": false,
+      "text_preview": "Mod+Space hotkey-overlay-title=\"Toggle Launcher\" { spawn-sh \"qs -c noctalia-shell ipc call launcher toggle\"; }"
+    },
+    {
+      "byte_size": 7,
+      "captured_at_ms": 1784508890292,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784508890292-15",
+      "mime_types": [
+        "text/html",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784508890292-15.bin",
+      "pinned": false,
+      "text_preview": "MangoWC"
+    },
+    {
+      "byte_size": 8,
+      "captured_at_ms": 1784508736178,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784508736177-14",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784508736177-14.bin",
+      "pinned": false,
+      "text_preview": "noctalia"
+    },
+    {
+      "byte_size": 29,
+      "captured_at_ms": 1784508272981,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784508272981-13",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784508272981-13.bin",
+      "pinned": false,
+      "text_preview": "curl https://getmic.ro | bash"
+    },
+    {
+      "byte_size": 19,
+      "captured_at_ms": 1784507415312,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784507415312-12",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784507415312-12.bin",
+      "pinned": false,
+      "text_preview": "pip install monique"
+    },
+    {
+      "byte_size": 112,
+      "captured_at_ms": 1784506732061,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784506732061-11",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784506732061-11.bin",
+      "pinned": false,
+      "text_preview": "curl -o- https://raw.githubusercontent.com/fiffeek/hyprdynamicmonitors/refs/heads/main/scripts/install.sh | bash"
+    },
+    {
+      "byte_size": 449,
+      "captured_at_ms": 1784506488129,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784506488129-10",
+      "mime_types": [
+        "text/html",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784506488129-10.bin",
+      "pinned": false,
+      "text_preview": "podman run --rm -it \\   -e WAYLAND_DISPLAY=$wayland_display \\   -e XDG_RUNTIME_DIR=/run/user/$(id -u) \\   -e DBUS_SESSION_BUS_ADDRESS=$dbus_address \\   -v /run/user/$(id -u)/$wayland_display:/run/user"
+    },
+    {
+      "byte_size": 46,
+      "captured_at_ms": 1784506484132,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784506484132-9",
+      "mime_types": [
+        "text/html",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784506484132-9.bin",
+      "pinned": false,
+      "text_preview": "dbus_address=$(echo $DBUS_SESSION_BUS_ADDRESS)"
+    },
+    {
+      "byte_size": 40,
+      "captured_at_ms": 1784506479369,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784506479369-8",
+      "mime_types": [
+        "text/html",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784506479369-8.bin",
+      "pinned": false,
+      "text_preview": "wayland_display=$(echo $WAYLAND_DISPLAY)"
+    },
+    {
+      "byte_size": 52,
+      "captured_at_ms": 1784506389230,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784506389230-7",
+      "mime_types": [
+        "text/html",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784506389230-7.bin",
+      "pinned": false,
+      "text_preview": "cat /run/host/etc/fedora-release | grep -oE '[0-9]+'"
+    },
+    {
+      "byte_size": 44,
+      "captured_at_ms": 1784505038930,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784505038930-6",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784505038930-6.bin",
+      "pinned": false,
+      "text_preview": "pm-ostree install --apply-live niri-settings"
+    },
+    {
+      "byte_size": 21,
+      "captured_at_ms": 1784505009122,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784505009122-5",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784505009122-5.bin",
+      "pinned": false,
+      "text_preview": "install niri-settings"
+    },
+    {
+      "byte_size": 19,
+      "captured_at_ms": 1784504649103,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784504649103-4",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "text/plain"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784504649103-4.bin",
+      "pinned": false,
+      "text_preview": "/.local/bin/nirimod"
+    },
+    {
+      "byte_size": 84,
+      "captured_at_ms": 1784504552156,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784504552156-3",
+      "mime_types": [
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784504552156-3.bin",
+      "pinned": false,
+      "text_preview": "curl -sSL https://raw.githubusercontent.com/srinivasr/nirimod/main/install.sh | bash"
+    },
+    {
+      "byte_size": 66,
+      "captured_at_ms": 1784504523325,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784504523325-2",
+      "mime_types": [
+        "text/html",
+        "text/_moz_htmlcontext",
+        "text/_moz_htmlinfo",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "text/x-moz-url-priv",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784504523325-2.bin",
+      "pinned": false,
+      "text_preview": "ttps://raw.githubusercontent.com/srinivasr/nirimod/main/install.sh"
+    },
+    {
+      "byte_size": 29,
+      "captured_at_ms": 1784503228526,
+      "data_mime_type": "text/plain;charset=utf-8",
+      "id": "1784503228526-1",
+      "mime_types": [
+        "text/html",
+        "text/plain;charset=utf-8",
+        "UTF8_STRING",
+        "COMPOUND_TEXT",
+        "TEXT",
+        "text/plain",
+        "STRING",
+        "text/plain;charset=utf-8",
+        "text/plain",
+        "SAVE_TARGETS"
+      ],
+      "payload_path": "/var/home/phcreery/.local/state/noctalia/clipboard/entries/1784503228526-1.bin",
+      "pinned": false,
+      "text_preview": "niri msg action reload-config"
+    }
+  ]
+}

@@ -75,7 +75,7 @@ input {
 // Find more information on the wiki:
 // https://niri-wm.github.io/niri/Configuration:-Outputs
 // Remember to uncomment the node by removing "/-"!
-output "eDP-1" {
+/-output "eDP-1" {
     // Uncomment this line to disable this output.
     // off
 
@@ -103,14 +103,7 @@ output "eDP-1" {
     // so to put another output directly adjacent to it on the right, set its x to 1920.
     // If the position is unset or results in an overlap, the output is instead placed
     // automatically.
-    position x=0 y=200
-}
-
-output "ASUSTek COMPUTER INC PA278CGRV TCLMSV005481" {
-    mode "2560x1440@59.951"
-    position x=1620 y=0
-    scale 1
-	
+    position x=1280 y=0
 }
 
 // Settings that influence how windows are positioned and sized.
@@ -351,7 +344,7 @@ window-rule {
 // Example: enable rounded corners for all windows.
 // (This example rule is commented out with a "/-" in front.)
 /-window-rule {
-    geometry-corner-radius 0
+    geometry-corner-radius 12
     clip-to-geometry true
 }
 
@@ -408,8 +401,7 @@ binds {
     // Open/close the Overview: a zoomed-out view of workspaces and windows.
     // You can also move the mouse into the top-left hot corner,
     // or do a four-finger swipe up on a touchpad.
-    // Mod+O repeat=false { toggle-overview; }
-    Mod+Tab repeat=false { toggle-overview; }
+    Mod+O repeat=false { toggle-overview; }
 
     Mod+Q repeat=false { close-window; }
 
@@ -473,19 +465,19 @@ binds {
     Mod+Page_Up        { focus-workspace-up; }
     Mod+U              { focus-workspace-down; }
     Mod+I              { focus-workspace-up; }
-    Mod+Shift+Page_Down { move-column-to-workspace-down; }
-    Mod+Shift+Page_Up   { move-column-to-workspace-up; }
-    Mod+Shift+U         { move-column-to-workspace-down; }
-    Mod+Shift+I         { move-column-to-workspace-up; }
+    Mod+Ctrl+Page_Down { move-column-to-workspace-down; }
+    Mod+Ctrl+Page_Up   { move-column-to-workspace-up; }
+    Mod+Ctrl+U         { move-column-to-workspace-down; }
+    Mod+Ctrl+I         { move-column-to-workspace-up; }
 
     // Alternatively, there are commands to move just a single window:
     // Mod+Ctrl+Page_Down { move-window-to-workspace-down; }
     // ...
 
-    // Mod+Ctrl+Page_Down { move-workspace-down; }
-    // Mod+Ctrl+Page_Up   { move-workspace-up; }
-    // Mod+Ctrl+U         { move-workspace-down; }
-    // Mod+Ctrl+I         { move-workspace-up; }
+    Mod+Shift+Page_Down { move-workspace-down; }
+    Mod+Shift+Page_Up   { move-workspace-up; }
+    Mod+Shift+U         { move-workspace-down; }
+    Mod+Shift+I         { move-workspace-up; }
 
     // You can bind mouse wheel scroll ticks using the following syntax.
     // These binds will change direction based on the natural-scroll setting.
@@ -573,7 +565,7 @@ binds {
 
     Mod+F { maximize-column; }
     Mod+Shift+F { fullscreen-window; }
-
+gg
     // While maximize-column leaves gaps and borders around the window,
     // maximize-window-to-edges doesn't: the window expands to the edges of the screen.
     // This bind corresponds to normal window maximizing,

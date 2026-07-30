@@ -59,5 +59,6 @@ $ cd ~/dotfiles
 $ stow bash
 $ stow uzbl
 $ stow vim
-
 ```
+
+All original files will be symlinked to the dotfiles location.
