@@ -1,2 +1,3 @@
 *.bin
 *.webp
+noctalia/.local/state/noctalia/*
