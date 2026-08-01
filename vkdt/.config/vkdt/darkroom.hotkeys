@@ -1,0 +1,48 @@
+v2
+create preset:341 79 0 0
+apply preset:341 80 0 0
+show history:341 72 0 0
+redo:341 340 90 0
+undo:341 90 0 0
+assign tag:341 84 0 0
+insert keyframe:341 75 0 0
+node editor:341 78 0 0
+next image:32 0 0 0
+prev image:259 0 0 0
+fullscreen:258 0 0 0
+dopesheet:341 68 0 0
+dup keyframe:340 68 0 0
+rate 0:48 0 0 0
+rate 1:49 0 0 0
+rate 2:50 0 0 0
+rate 3:51 0 0 0
+rate 4:52 0 0 0
+rate 5:53 0 0 0
+label red:290 0 0 0
+label green:291 0 0 0
+label blue:292 0 0 0
+label yellow:293 0 0 0
+label purple:294 0 0 0
+upvote:301 0 0 0
+downvote:298 0 0 0
+reload shaders:0 0 0 0
+copy history:341 67 0 0
+paste history:341 86 0 0
+show hotkeys:0 0 0 0
+presets:80 0 0 0
+adjust:65 0 0 0
+modules:77 0 0 0
+rotate:82 0 0 0
+dragkey dec:263 0 0 0
+dragkey inc:262 0 0 0
+dragkey dec alt:72 0 0 0
+dragkey inc alt:76 0 0 0
+dragkey y-dec:264 0 0 0
+dragkey y-inc:265 0 0 0
+dragkey y-dec alt:74 0 0 0
+dragkey y-inc alt:75 0 0 0
+color assessment:341 66 0 0
+contrast:67 0 0 0
+exposure:69 0 0 0
+saturation:83 0 0 0
+whitebalance:87 0 0 0

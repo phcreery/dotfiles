@@ -1,0 +1,20 @@
+colour:01:exposure
+filmcurv:01:light
+filmcurv:01:contrast
+crop:01:perspect
+crop:01:crop
+crop:01:rotate
+llap:01:clarity
+llap:01:shadows
+llap:01:hilights
+denoise:01:strength
+rt:01:cam
+quake:main:cam
+preset:rot 0:r000
+preset:rot 90:r090
+preset:rot 180:r180
+preset:rot 270:r270
+preset:wb cam:whitebalance-camera
+preset:wb D65:whitebalance-D65
+preset:filmsim:filmsim
+preset:cnn denoise:jddcnn

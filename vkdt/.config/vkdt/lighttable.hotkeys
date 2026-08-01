@@ -1,0 +1,25 @@
+v2
+tag:341 84 0 0
+select all:341 65 0 0
+export:341 83 0 0
+copy:341 67 0 0
+paste history:341 86 0 0
+append preset:341 80 0 0
+scroll cur:340 67 0 0
+scroll end:340 71 0 0
+scroll top:71 0 0 0
+fullscreen:258 0 0 0
+duplicate:340 68 0 0
+rate 0:48 0 0 0
+rate 1:49 0 0 0
+rate 2:50 0 0 0
+rate 3:51 0 0 0
+rate 4:52 0 0 0
+rate 5:53 0 0 0
+label red:290 0 0 0
+label green:291 0 0 0
+label blue:292 0 0 0
+label yellow:293 0 0 0
+label purple:294 0 0 0
+zoom in:341 265 0 0
+zoom out:341 264 0 0

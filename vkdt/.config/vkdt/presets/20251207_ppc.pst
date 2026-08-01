@@ -1,0 +1,88 @@
+frames:1
+fps:0
+module:i-raw:main:43:400
+module:denoise:01:218:400
+module:hilite:01:393:400
+module:demosaic:01:568:400
+module:colour:01:931:400
+module:i-lut:01:1039.79:712.269
+module:hist:01:2386.4:27.4
+module:ciediag:01:2381.99:179.54
+module:crop:01:743:400
+module:display:hist:2599:32.8001
+module:display:main:2580:335.2
+module:filmsim:01:1250.43:578.12
+module:i-lut:02:1040.18:846.25
+module:oklab:01:1453.28:533.28
+module:filmcurv:01:1769:450.4
+connect:i-raw:main:output:denoise:01:input
+connect:denoise:01:output:hilite:01:input
+connect:hilite:01:output:demosaic:01:input
+connect:crop:01:output:colour:01:input
+connect:filmcurv:01:output:hist:01:input
+connect:colour:01:output:ciediag:01:input
+connect:demosaic:01:output:crop:01:input
+connect:ciediag:01:output:display:hist:input
+connect:filmcurv:01:output:display:main:input
+connect:colour:01:output:filmsim:01:input
+connect:i-lut:01:output:filmsim:01:filmsim
+connect:i-lut:02:output:filmsim:01:spectra
+connect:filmsim:01:output:oklab:01:input
+connect:oklab:01:output:filmcurv:01:input
+param:denoise:01:strength:0
+param:denoise:01:luma:0.6
+param:denoise:01:detail:1
+param:denoise:01:gainmap:1
+param:hilite:01:white:0.985
+param:hilite:01:desat:0.3
+param:hilite:01:soft:0.6
+param:demosaic:01:colour:0
+param:demosaic:01:method:0
+param:colour:01:exposure:0
+param:colour:01:sat:1
+param:colour:01:picked:0
+param:colour:01:matrix:1
+param:colour:01:gamut:0
+param:colour:01:clip:0
+param:colour:01:clipmax:1
+param:colour:01:temp:6504
+param:colour:01:white:0.819187:1:1.33409:0
+param:colour:01:mat:-1:0:0:0:0:0:0:0:0
+param:colour:01:mode:0
+param:colour:01:cnt:4
+param:colour:01:rbmap:0.3333:0.3333:0.3333:0.3333:0.3333:0.3333:0.5:0.25:0.25:0.5:0.25:0.25:0.25:0.5:0.25:0.25:0.5:0.25:0.25:0.25:0.5:0.25:0.25:0.5:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+param:colour:01:import:01
+param:i-lut:01:filename:data/filmsim.lut
+param:ciediag:01:nspots:0
+param:ciediag:01:pad:0:0:0
+param:ciediag:01:ref:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+param:crop:01:perspect:0.25:0.25:0.75:0.25:0.75:0.75:0.25:0.75
+param:crop:01:crop:0.167167:0.832833:-0.24925:1.24925
+param:crop:01:rotate:90
+param:filmsim:01:process:0
+param:filmsim:01:film:3
+param:filmsim:01:ev film:0.341259
+param:filmsim:01:g film:0.812857
+param:filmsim:01:couplers:0.25
+param:filmsim:01:grain:0
+param:filmsim:01:size:1
+param:filmsim:01:uniform:0.7
+param:filmsim:01:paper:0
+param:filmsim:01:ev paper:0.459111
+param:filmsim:01:g paper:0.742404
+param:filmsim:01:enlarge:0
+param:filmsim:01:filter c:0.286564
+param:filmsim:01:filter m:0.566086
+param:filmsim:01:filter y:0.689551
+param:filmsim:01:tune m:0
+param:filmsim:01:tune y:0
+param:filmsim:01:halation:0
+param:filmsim:01:radius:0.0015
+param:filmsim:01:pad:0
+param:filmsim:01:strength:0.8:0.05:0.01:0
+param:i-lut:02:filename:data/spectra-em.lut
+param:oklab:01:exposure:0
+param:filmcurv:01:light:3
+param:filmcurv:01:contrast:1.2
+param:filmcurv:01:bias:0
+param:filmcurv:01:colour:3

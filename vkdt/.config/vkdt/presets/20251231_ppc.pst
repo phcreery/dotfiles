@@ -1,0 +1,108 @@
+frames:1
+fps:0
+module:i-raw:main:43:400
+module:denoise:01:218:400
+module:hilite:01:393:400
+module:demosaic:01:568:400
+module:colour:01:931:400
+module:filmcurv:01:1143.71:261.143
+module:llap:01:1346.14:276.571
+module:hist:01:1418:634
+module:zones:01:219:800
+module:crop:01:743:400
+module:lens:01:568:800
+module:pick:01:43:800
+module:display:hist:1600:634
+module:display:main:1545:400
+module:filmsim:01:1158.74:548.742
+module:i-lut:filmsim:436.114:1076
+module:i-lut:spectem:429.943:959.2
+connect:i-raw:main:output:denoise:01:input
+connect:denoise:01:output:hilite:01:input
+connect:hilite:01:output:demosaic:01:input
+connect:crop:01:output:colour:01:input
+connect:filmcurv:01:output:llap:01:input
+connect:filmsim:01:output:hist:01:input
+connect:demosaic:01:output:crop:01:input
+connect:hist:01:output:display:hist:input
+connect:filmsim:01:output:display:main:input
+connect:colour:01:output:filmsim:01:input
+connect:i-lut:filmsim:output:filmsim:01:filmsim
+connect:i-lut:spectem:output:filmsim:01:spectra
+param:denoise:01:strength:0
+param:denoise:01:luma:0.6
+param:denoise:01:detail:1
+param:denoise:01:gainmap:1
+param:hilite:01:white:0.985
+param:hilite:01:desat:0.3
+param:hilite:01:soft:0.6
+param:demosaic:01:colour:0
+param:demosaic:01:method:0
+param:colour:01:exposure:1.09087
+param:colour:01:sat:1.0135
+param:colour:01:picked:0
+param:colour:01:matrix:1
+param:colour:01:gamut:0
+param:colour:01:clip:0
+param:colour:01:clipmax:1
+param:colour:01:temp:6504
+param:colour:01:white:1:1:1:1
+param:colour:01:mat:-1:0:0:0:0:0:0:0:0
+param:colour:01:mode:0
+param:colour:01:cnt:4
+param:colour:01:rbmap:0.3333:0.3333:0.3333:0.3333:0.3333:0.3333:0.5:0.25:0.25:0.5:0.25:0.25:0.25:0.5:0.25:0.25:0.5:0.25:0.25:0.25:0.5:0.25:0.25:0.5:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+param:colour:01:import:01
+param:filmcurv:01:light:3
+param:filmcurv:01:contrast:1.2
+param:filmcurv:01:bias:0
+param:filmcurv:01:colour:3
+param:llap:01:sigma:0.12
+param:llap:01:shadows:1
+param:llap:01:hilights:1
+param:llap:01:clarity:0.2
+param:zones:01:radius:0.01
+param:zones:01:epsilon:0.06
+param:zones:01:gamma:1
+param:zones:01:nzones:3
+param:zones:01:zone:0:0:0:0:0:0:0
+param:crop:01:perspect:0.25:0.25:0.75:0.25:0.75:0.75:0.25:0.75
+param:crop:01:crop:0.000548246:0.999452:0.000822368:0.999178
+param:crop:01:rotate:0
+param:lens:01:center:0:0
+param:lens:01:scale:1:1
+param:lens:01:squish0:0
+param:lens:01:squish1:0
+param:lens:01:ca red:1
+param:lens:01:ca blue:1
+param:pick:01:nspots:0
+param:pick:01:pad:0:0:0
+param:pick:01:spots:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+param:pick:01:picked:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+param:pick:01:ref:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0:0
+param:pick:01:show:0
+param:pick:01:grab:0
+param:pick:01:de76:0:0:0
+param:pick:01:freeze:0
+param:filmsim:01:process:0
+param:filmsim:01:film:2
+param:filmsim:01:ev film:2.74404
+param:filmsim:01:g film:1.009
+param:filmsim:01:couplers:0.574673
+param:filmsim:01:grain:0
+param:filmsim:01:size:1
+param:filmsim:01:uniform:0.7
+param:filmsim:01:paper:0
+param:filmsim:01:ev paper:1.06708
+param:filmsim:01:g paper:0.559154
+param:filmsim:01:enlarge:0
+param:filmsim:01:filter c:0.300702
+param:filmsim:01:filter m:0.427642
+param:filmsim:01:filter y:0.465562
+param:filmsim:01:tune m:0.17094
+param:filmsim:01:tune y:0
+param:filmsim:01:halation:1
+param:filmsim:01:radius:0.0015
+param:filmsim:01:pad:0
+param:filmsim:01:strength:0.8:0.05:0.01:0
+param:i-lut:filmsim:filename:data/filmsim.lut
+param:i-lut:spectem:filename:data/spectra-em.lut
