@@ -41,8 +41,7 @@ dragkey y-dec:264 0 0 0
 dragkey y-inc:265 0 0 0
 dragkey y-dec alt:74 0 0 0
 dragkey y-inc alt:75 0 0 0
-color assessment:341 66 0 0
 contrast:67 0 0 0
 exposure:69 0 0 0
-saturation:83 0 0 0
 whitebalance:87 0 0 0
+saturation:83 0 0 0

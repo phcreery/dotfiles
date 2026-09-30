@@ -7,7 +7,7 @@ intqvk/device_id:-1
 intgui/allowhdr:0
 intgui/vk_present_mode:0
 fltgui/panelwd:0.2
-fltgui/dpiscale:1
+fltgui/dpiscale:0.8
 strgui/msdffont:font
 intgui/thumbnail_cache_MB:16
 strgui/ruc_entry00:/home/phcreery/Pictures&all
